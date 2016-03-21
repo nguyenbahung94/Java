@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<StudentList> 
+    <student studentId="s01" gender="male"> 
+       <studentkind id="s001" gender="male">
+        <name>Nguyen van A</name> 
+        <age>30</age>
+     </studentkind> 
+     <studentkind id="s002" gender="male">
+        <name>Nguyen Van B</name> 
+        <age>35</age>
+     </studentkind> 
+    </student> 
+    <student studentId="s02" gender="female"> 
+        <name>Nguyen Thi Hoa</name> 
+        <age>30</age> 
+    </student> 
+    <student studentId="s03" gender="female"> 
+        <name>Nguyen Thi Hoa Huong</name> 
+        <age>35</age> 
+    </student> 
+   <item  id="001">
+   <name>loai 1</name>
+   <count>100 cai</count>
+  </item>
+ <item  id="002">
+   <name>loai 2</name>
+   <count>200 cai</count>
+  </item>
+</StudentList> 

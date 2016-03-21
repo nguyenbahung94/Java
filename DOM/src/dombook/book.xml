@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.w3schools.com"  
+    xsi:schemaLocation="http://www.w3schools.com books.xsd">
+   <book id="bk001">
+      <author>Paulo Coelho</author>
+      <title>Nhà Giả Kim</title>
+      <genre>tiểu thuyết</genre>
+      <price>41000</price>
+      <publish_date>2013-10-01</publish_date>
+	  <nxb>kim đồng</nxb>
+      <description>Tiểu thuyết Nhà giả kim của Paulo Coelho như một câu chuyện
+         cổ tích giản dị, nhân ái, giàu chất thơ,
+         thấm đẫm những minh triết huyền bí của phương Đông.</description>
+   </book>
+   <book id="bk002">
+      <author>Nguyễn Nhật Ánh</author>
+      <title>Tôi Thấy Hoa Vàng Trên Cỏ Xanh</title>
+      <genre>Tiểu thuyết</genre>
+      <price>57400</price>
+      <publish_date>2010-11-16</publish_date>
+	  <nxb>văn hóa</nxb>
+      <description>Ta bắt gặp trong Tôi Thấy Hoa Vàng Trên Cỏ Xanh một thế giới đấy bất ngờ và thi vị non trẻ
+         với những suy ngẫm giản dị thôi nhưng gần gũi đến lạ.</description>
+   </book>
+   <book id="bk003">
+      <author>Phan Thi</author>
+      <title>Thần Đồng Đất Việt</title>
+      <genre>Truyện thếu nhi</genre>
+      <price>15000</price>
+      <publish_date>2016-02-17</publish_date>
+	  <nxb>Kim Đồng</nxb>
+      <description>Thần Đồng Đất Việt kì này vui lắm nha. Làng Phan thị tranh tài cao thấp với làng Đỗ Thị
+         về một hạng mục cực kì tầm cỡ, lơ ngơ là phạm tội khi quân.</description>
+   </book>
+   <book id="bk004">
+      <author>Peter Pham</author>
+      <title>The Big Trade</title>
+      <genre>Sách kinh tế</genre>
+      <price>97000</price>
+      <publish_date>2016-03-10</publish_date>
+	  <nxb>Kinh Tế</nxb>
+      <description>Cuốn sách sẽ góp phần giải đáp những bí mật về thị trường mà độc giả muốn tìm hiểu
+         và giúp các bạn trở thành những nhà giao dịch hiệu quả trong tương lai.</description>
+   </book>
+   <book id="bk005">
+      <author>Jim Lee</author>
+      <title>1000 Listening Comprehension Practice Test</title>
+      <genre>Sách tiếng anh</genre>
+      <price>298000</price>
+      <publish_date>2016-03-10</publish_date>
+	  <nxb>O'relly</nxb>
+      <description>1000 Listening Comprehension Practice Test Items for the New Toeic Test.</description>
+   </book>
+   <book id="bk006">
+      <author>Eiichiro Oda</author>
+      <title>One Piece</title>
+      <genre>Truyện tranh</genre>
+      <price>55000</price>
+      <publish_date>2016-03-02</publish_date>
+	  <nxb>Kim Đồng</nxb>
+      <description>One Piece (Vua hải tặc) bộ thuộc thể loại truyện tranh Hành động
+	  kể về một cậu bé tên Monkey D. Luffy, 
+	  dong buồm ra khơi trên chuyến hành trình tìm kho báu huyền thoại.</description>
+   </book>
+   <book id="bk007">
+      <author>Jack London</author>
+      <title>Nanh Trắng</title>
+      <genre>Tiểu thuyết</genre>
+      <price>62000</price>
+      <publish_date>2000-11-02</publish_date>
+	  <nxb>Đông A</nxb>
+      <description>Nanh Trắng là một câu truyện về cuộc hành trình của một con chó sói lai chó nhà
+         để trở thành một kẻ được khai hóa trong lãnh thổ Yukon của
+         Canada trong thời kỳ đổ xô đi tìm vàng Klondike cuối thế kỷ 19.</description>
+   </book>
+   <book id="bk008">
+      <author>Knorr, Stefan</author>
+      <title>Creepy Crawlies</title>
+      <genre>Kinh dị</genre>
+      <price>82000</price>
+      <publish_date>2010-12-06</publish_date>
+	  <nxb>Văn Học</nxb>
+      <description>Một tuyển tập những câu chuyện kinh dị về những con gián ,
+         rết , bọ cạp và côn trùng khác.</description>
+   </book>
+   
+</catalog>
